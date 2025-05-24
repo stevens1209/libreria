@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="Tarea. Base completa con inyeccion de datos">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="Tarea. Base completa con inyeccion de datos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +48,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MichaelCza11"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MichaelCza11/ismac.git",
+    "accountId": "f711531b-a0d3-478f-88cd-fca12a04372c"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -176,7 +186,39 @@
       <option name="project" value="LOCAL" />
       <updated>1748125071707</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tarea. Base completa con inyeccion de datos">
+      <option name="closed" value="true" />
+      <created>1748125195555</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748125195555</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tarea. Base completa con inyeccion de datos">
+      <option name="closed" value="true" />
+      <created>1748125278753</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748125278753</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Tarea. Base completa con inyeccion de datos">
+      <option name="closed" value="true" />
+      <created>1748125290686</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748125290686</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tarea. Base completa con inyeccion de datos">
+      <option name="closed" value="true" />
+      <created>1748125377525</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748125377525</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
