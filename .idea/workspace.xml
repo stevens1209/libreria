@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="Tarea. Base completa con inyeccion de datos" />
+    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="inyeccion de datos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +70,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/MichaelCza11/ismac.git&quot;,
-    &quot;accountId&quot;: &quot;f711531b-a0d3-478f-88cd-fca12a04372c&quot;
+    &quot;accountId&quot;: &quot;0366097c-41ff-40d1-9b43-926084fa9af0&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -83,28 +85,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ClientePrincipal.executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.AutorPrincipal.main()].executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.CategoriaPrincipal.main()].executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.ClientePrincipal.main()].executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.FacturaDetallePrincipal.main()].executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.FacturaPrincipal.main()].executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.LibroPrincipal.main()].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master1",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Progra_distribuida/libreria",
-    "onboarding.tips.debug.path": "C:/Distribuida-Nocturna/libreria/src/main/java/com/distribuida/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "settings.sync"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ClientePrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.AutorPrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.CategoriaPrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.ClientePrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.FacturaDetallePrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.FacturaPrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.LibroPrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Progra_distribuida/libreria&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Distribuida-Nocturna/libreria/src/main/java/com/distribuida/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.LibroPrincipal">
     <configuration name="AutorPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.distribuida.principal.AutorPrincipal" />
@@ -245,7 +247,39 @@
       <option name="project" value="LOCAL" />
       <updated>1748125909755</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Tarea. Base completa con inyeccion de datos">
+      <option name="closed" value="true" />
+      <created>1748126297388</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1748126297388</updated>
+    </task>
+    <task id="LOCAL-00009" summary="inyeccion de datos">
+      <option name="closed" value="true" />
+      <created>1748126491982</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1748126491982</updated>
+    </task>
+    <task id="LOCAL-00010" summary="inyeccion de datos">
+      <option name="closed" value="true" />
+      <created>1748126572484</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1748126572484</updated>
+    </task>
+    <task id="LOCAL-00011" summary="inyeccion de datos">
+      <option name="closed" value="true" />
+      <created>1748126591143</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1748126591143</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,7 +287,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -264,7 +310,8 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="mi primer comentario creacion de clases cliente y factura entities" />
     <MESSAGE value="Tarea. Base completa con inyeccion de datos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea. Base completa con inyeccion de datos" />
+    <MESSAGE value="inyeccion de datos" />
+    <option name="LAST_COMMIT_MESSAGE" value="inyeccion de datos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
