@@ -4,28 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="mi primer comentario creacion de clases cliente y factura entities">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/distribuida/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/distribuida/entities/Autor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/distribuida/entities/Categoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/distribuida/entities/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/distribuida/principal/AutorPrincipal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/distribuida/principal/CategoriaPrincipal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/distribuida/principal/ClientePrincipal.java" afterDir="false" />
+    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="Tarea. Base completa con inyeccion de datos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../libreria\exportToHTML" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -180,6 +168,15 @@
       <option name="presentableId" value="Default" />
       <updated>1747446456252</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tarea. Base completa con inyeccion de datos">
+      <option name="closed" value="true" />
+      <created>1748125071707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748125071707</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,7 +194,8 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="mi primer comentario creacion de clases cliente y factura entities" />
-    <option name="LAST_COMMIT_MESSAGE" value="mi primer comentario creacion de clases cliente y factura entities" />
+    <MESSAGE value="Tarea. Base completa con inyeccion de datos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea. Base completa con inyeccion de datos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
