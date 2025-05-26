@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="Tarea. Base completa con inyeccion de datos">
+    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="inyeccion de datos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,28 +62,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ClientePrincipal.executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.AutorPrincipal.main()].executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.CategoriaPrincipal.main()].executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.ClientePrincipal.main()].executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.FacturaDetallePrincipal.main()].executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.FacturaPrincipal.main()].executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.LibroPrincipal.main()].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Progra_distribuida/libreria",
-    "onboarding.tips.debug.path": "C:/Distribuida-Nocturna/libreria/src/main/java/com/distribuida/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ClientePrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.AutorPrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.CategoriaPrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.ClientePrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.FacturaDetallePrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.FacturaPrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.LibroPrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Progra_distribuida/libreria&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Distribuida-Nocturna/libreria/src/main/java/com/distribuida/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.LibroPrincipal">
     <configuration name="AutorPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.distribuida.principal.AutorPrincipal" />
