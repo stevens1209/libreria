@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="Tarea. Base completa con inyeccion de datos">
+    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="inyeccion de datos">
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/distribuida/test/ClienteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/libreria.main.eml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/libreria.test.eml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +59,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Wayside11&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MichaelCza11/Libreria.git&quot;,
+    &quot;accountId&quot;: &quot;5f394770-c55f-4377-a665-7fbc0b78c47c&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -65,6 +86,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ClientePrincipal.executor": "Run",
+    "Gradle.ClienteTest.testclienteConstructorAndGetter.executor": "Run",
+    "Gradle.Libreria [:com.distribuida.principal.AutorPrincipal.main()].executor": "Run",
     "Gradle.libreria [:com.distribuida.principal.AutorPrincipal.main()].executor": "Run",
     "Gradle.libreria [:com.distribuida.principal.CategoriaPrincipal.main()].executor": "Run",
     "Gradle.libreria [:com.distribuida.principal.ClientePrincipal.main()].executor": "Run",
@@ -74,17 +97,17 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "master1",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Progra_distribuida/libreria",
     "onboarding.tips.debug.path": "C:/Distribuida-Nocturna/libreria/src/main/java/com/distribuida/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LibroPrincipal">
+  <component name="RunManager" selected="Gradle.ClienteTest.testclienteConstructorAndGetter">
     <configuration name="AutorPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.distribuida.principal.AutorPrincipal" />
       <module name="libreria.main" />
@@ -137,26 +160,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibroPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.distribuida.principal.LibroPrincipal" />
-      <module name="libreria.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.distribuida.principal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="ClienteTest.testclienteConstructorAndGetter" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.distribuida.test.ClienteTest.testclienteConstructorAndGetter&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Libreria" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Libreria" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ClienteTest.testclienteConstructorAndGetter" />
         <item itemvalue="Application.FacturaDetallePrincipal" />
         <item itemvalue="Application.FacturaPrincipal" />
         <item itemvalue="Application.ClientePrincipal" />
         <item itemvalue="Application.AutorPrincipal" />
-        <item itemvalue="Application.LibroPrincipal" />
       </list>
     </recent_temporary>
   </component>
