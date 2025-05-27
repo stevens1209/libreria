@@ -4,8 +4,7 @@ import com.distribuida.entities.Cliente;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertAll;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class ClienteTest {
 
@@ -41,7 +40,29 @@ public class ClienteTest {
         cliente.setTelefono("03446541");
         cliente.setCorreo("Mx@ismac.edu.ec");
 
+        assertAll("Validar datos cliente ",
+                () -> assertEquals(3,cliente.getInCliente()),
+                () -> assertEquals("21212121211",cliente.getCedula()),
+                () -> assertEquals("Mich",cliente.getNombre()),
+                () -> assertEquals("Aguirre",cliente.getApellido()),
+                () -> assertEquals("Lumbisi",cliente.getDireccion()),
+                () -> assertEquals("Lumbisi",cliente.getTelefono()),
+                () -> assertEquals("Mx@ismac.edu.ec",cliente.getCorreo())
+        );
+    }
 
+    @Test
+    public void TestToString(){
+        String str = cliente.toString();
+        assertAll("Validar datos de cliente",
+                () -> assertTrue(str.contains("1")),
+                () -> assertTrue(str.contains("02164")),
+                () -> assertTrue(str.contains("Jhoel")),
+                () -> assertTrue(str.contains("Caiza")),
+                () -> assertTrue(str.contains("Pifo")),
+                () -> assertTrue(str.contains("098787878")),
+                () -> assertTrue(str.contains("Mccaiza@gmail.com"))
+        );
 
 
     }

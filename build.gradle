@@ -1,5 +1,7 @@
 plugins {
     id 'java'
+    id 'jacoco'
+    id 'io.qameta.allure' version '2.11.2' //sacado del chat
 }
 
 group = 'com.distribuida'
@@ -12,8 +14,20 @@ repositories {
 dependencies {
     testImplementation(platform('org.junit:junit-bom:5.10.0'))
     testImplementation('org.junit.jupiter:junit-jupiter')
+    testImplementation 'io.qameta.allure:allure-junit5:2.27.0' //sacado del chat
 }
 
 tasks.test {
     useJUnitPlatform()
+}
+
+//JACOCO GRADE TEST REPORTES
+
+jacocoTestReport {
+    dependsOn test // COPIADO DE LA PAGINA EN DEPENDENCIAS
+    reports {
+        xml.required = false
+        csv.required = false
+        html.outputLocation = layout.buildDirectory.dir('jacocoHtml')
+    }
 }

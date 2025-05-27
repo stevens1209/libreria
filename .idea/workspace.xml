@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="inyeccion de datos">
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/distribuida/test/ClienteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="Merge remote-tracking branch 'origin/master1' into master1&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/libreria.main.eml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/libreria.test.eml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/distribuida/test/ClienteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/distribuida/test/ClienteTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +50,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Michael &lt;joecaiza1112@outlook.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -83,44 +81,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ClientePrincipal.executor": "Run",
-    "Gradle.ClienteTest.testclienteConstructorAndGetter.executor": "Run",
-    "Gradle.Libreria [:com.distribuida.principal.AutorPrincipal.main()].executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.AutorPrincipal.main()].executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.CategoriaPrincipal.main()].executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.ClientePrincipal.main()].executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.FacturaDetallePrincipal.main()].executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.FacturaPrincipal.main()].executor": "Run",
-    "Gradle.libreria [:com.distribuida.principal.LibroPrincipal.main()].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master1",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Progra_distribuida/libreria",
-    "onboarding.tips.debug.path": "C:/Distribuida-Nocturna/libreria/src/main/java/com/distribuida/Main.java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ClientePrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.ClienteTest.testClienteSetters.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.ClienteTest.testclienteConstructorAndGetter.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Libreria [:com.distribuida.principal.AutorPrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.AutorPrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.CategoriaPrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.ClientePrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.FacturaDetallePrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.FacturaPrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.libreria [:com.distribuida.principal.LibroPrincipal.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master1&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Progra_distribuida/libreria&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Distribuida-Nocturna/libreria/src/main/java/com/distribuida/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Gradle.ClienteTest.testclienteConstructorAndGetter">
-    <configuration name="AutorPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.distribuida.principal.AutorPrincipal" />
-      <module name="libreria.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.distribuida.principal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Gradle.ClienteTest.testClienteSetters">
     <configuration name="ClientePrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.distribuida.principal.ClientePrincipal" />
       <module name="libreria.main" />
@@ -160,6 +146,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ClienteTest.testClienteSetters" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.distribuida.test.ClienteTest.testClienteSetters&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="ClienteTest.testclienteConstructorAndGetter" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -197,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ClienteTest.testClienteSetters" />
         <item itemvalue="Gradle.ClienteTest.testclienteConstructorAndGetter" />
         <item itemvalue="Application.FacturaDetallePrincipal" />
         <item itemvalue="Application.FacturaPrincipal" />
         <item itemvalue="Application.ClientePrincipal" />
-        <item itemvalue="Application.AutorPrincipal" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +231,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748125071707</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="AVANCE 2 Calidad de software">
+      <option name="closed" value="true" />
+      <created>1748312489768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748312489768</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/master1' into master1&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1748485552424</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748485552424</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,7 +266,10 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="mi primer comentario creacion de clases cliente y factura entities" />
     <MESSAGE value="Tarea. Base completa con inyeccion de datos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea. Base completa con inyeccion de datos" />
+    <MESSAGE value="AVANCE 2 Calidad de software" />
+    <MESSAGE value="AVANCE 3 Calidad de software" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master1' into master1&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master1' into master1&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
