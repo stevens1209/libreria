@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="Merge remote-tracking branch 'origin/master1' into master1&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/distribuida/test/ClienteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/distribuida/test/ClienteTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="versionamiento calidad2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -247,7 +243,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748485552424</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="versionamiento calidad2">
+      <option name="closed" value="true" />
+      <created>1748571190488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748571190488</updated>
+    </task>
+    <task id="LOCAL-00005" summary="versionamiento calidad2">
+      <option name="closed" value="true" />
+      <created>1748571323464</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748571323464</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,7 +281,8 @@
     <MESSAGE value="AVANCE 2 Calidad de software" />
     <MESSAGE value="AVANCE 3 Calidad de software" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master1' into master1&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master1' into master1&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="versionamiento calidad2" />
+    <option name="LAST_COMMIT_MESSAGE" value="versionamiento calidad2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
