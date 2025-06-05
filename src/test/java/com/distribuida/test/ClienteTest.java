@@ -12,19 +12,19 @@ public class ClienteTest {
 
     @BeforeEach
     public void setUp(){
-        cliente = new Cliente(1,"02164","Jhoel","Caiza","Pifo","098787878","Mccaiza@gmail.com");
+        cliente = new Cliente(1,"1726695396","Steven","Simbana","Lumbisi","0984241253","natanaelsimbaa@yahoo.es");
     }
 
     @Test
     public void testclienteConstructorAndGetter(){
         assertAll("Validar datos cliente",
                 () -> assertEquals(1, cliente.getInCliente()),
-                () -> assertEquals("02164", cliente.getCedula()),
-                () -> assertEquals("Jhoel", cliente.getNombre()),
-                () -> assertEquals("Caiza", cliente.getApellido()),
-                () -> assertEquals("Pifo", cliente.getDireccion()),
-                () -> assertEquals("098787878", cliente.getTelefono()),
-                () -> assertEquals("Mccaiza@gmail.com", cliente.getCorreo())
+                () -> assertEquals("1726695396", cliente.getCedula()),
+                () -> assertEquals("Steven", cliente.getNombre()),
+                () -> assertEquals("Simbana", cliente.getApellido()),
+                () -> assertEquals("Lumbisi", cliente.getDireccion()),
+                () -> assertEquals("0984241253", cliente.getTelefono()),
+                () -> assertEquals("natanaelsimbaa@yahoo.es", cliente.getCorreo())
                 );
     }
 
@@ -33,20 +33,20 @@ public class ClienteTest {
         cliente = new Cliente();
 
         cliente.setInCliente(3);
-        cliente.setCedula("21212121211");
-        cliente.setNombre("Mich");
-        cliente.setApellido("Aguirre");
+        cliente.setCedula("1111");
+        cliente.setNombre("stev");
+        cliente.setApellido("simbaa");
         cliente.setDireccion("Lumbisi");
         cliente.setTelefono("03446541");
         cliente.setCorreo("Mx@ismac.edu.ec");
 
         assertAll("Validar datos cliente ",
                 () -> assertEquals(3,cliente.getInCliente()),
-                () -> assertEquals("21212121211",cliente.getCedula()),
-                () -> assertEquals("Mich",cliente.getNombre()),
-                () -> assertEquals("Aguirre",cliente.getApellido()),
+                () -> assertEquals("1111",cliente.getCedula()),
+                () -> assertEquals("stev",cliente.getNombre()),
+                () -> assertEquals("simbaa",cliente.getApellido()),
                 () -> assertEquals("Lumbisi",cliente.getDireccion()),
-                () -> assertEquals("Lumbisi",cliente.getTelefono()),
+                () -> assertEquals("03446541",cliente.getTelefono()),
                 () -> assertEquals("Mx@ismac.edu.ec",cliente.getCorreo())
         );
     }
@@ -56,12 +56,12 @@ public class ClienteTest {
         String str = cliente.toString();
         assertAll("Validar datos de cliente",
                 () -> assertTrue(str.contains("1")),
-                () -> assertTrue(str.contains("02164")),
-                () -> assertTrue(str.contains("Jhoel")),
-                () -> assertTrue(str.contains("Caiza")),
-                () -> assertTrue(str.contains("Pifo")),
-                () -> assertTrue(str.contains("098787878")),
-                () -> assertTrue(str.contains("Mccaiza@gmail.com"))
+                () -> assertTrue(str.contains("1726695396")),
+                () -> assertTrue(str.contains("Steven")),
+                () -> assertTrue(str.contains("Simbana")),
+                () -> assertTrue(str.contains("Lumbisi")),
+                () -> assertTrue(str.contains("0984241253")),
+                () -> assertTrue(str.contains("natanaelsimbaa@yahoo.es"))
         );
 
 

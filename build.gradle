@@ -14,7 +14,7 @@ repositories {
 dependencies {
     testImplementation(platform('org.junit:junit-bom:5.10.0'))
     testImplementation('org.junit.jupiter:junit-jupiter')
-    testImplementation 'io.qameta.allure:allure-junit5:2.27.0' //sacado del chat
+    testImplementation 'io.qameta.allure:allure-junit5:2.25.0' //sacado del chat
 }
 
 tasks.test {

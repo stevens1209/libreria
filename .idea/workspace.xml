@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="versionamiento calidad2" />
+    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="libreria">
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,12 +61,12 @@
     &quot;assignee&quot;: &quot;Wayside11&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/MichaelCza11/Libreria.git&quot;,
-    &quot;accountId&quot;: &quot;5f394770-c55f-4377-a665-7fbc0b78c47c&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/stevens1209/libreria.git",
+    "accountId": "9ebbcad4-0fc0-4b1c-9858-03e061e1aef4"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -77,45 +79,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ClientePrincipal.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.ClienteTest.testClienteSetters.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.ClienteTest.testclienteConstructorAndGetter.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Libreria [:com.distribuida.principal.AutorPrincipal.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.libreria [:com.distribuida.principal.AutorPrincipal.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.libreria [:com.distribuida.principal.CategoriaPrincipal.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.libreria [:com.distribuida.principal.ClientePrincipal.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.libreria [:com.distribuida.principal.FacturaDetallePrincipal.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.libreria [:com.distribuida.principal.FacturaPrincipal.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.libreria [:com.distribuida.principal.LibroPrincipal.main()].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master1&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Progra_distribuida/libreria&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Distribuida-Nocturna/libreria/src/main/java/com/distribuida/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ClientePrincipal.executor": "Run",
+    "Gradle.ClienteTest.TestToString.executor": "Run",
+    "Gradle.ClienteTest.testClienteSetters.executor": "Run",
+    "Gradle.ClienteTest.testclienteConstructorAndGetter.executor": "Run",
+    "Gradle.Libreria [:com.distribuida.principal.AutorPrincipal.main()].executor": "Run",
+    "Gradle.libreria [:com.distribuida.principal.AutorPrincipal.main()].executor": "Run",
+    "Gradle.libreria [:com.distribuida.principal.CategoriaPrincipal.main()].executor": "Run",
+    "Gradle.libreria [:com.distribuida.principal.ClientePrincipal.main()].executor": "Run",
+    "Gradle.libreria [:com.distribuida.principal.FacturaDetallePrincipal.main()].executor": "Run",
+    "Gradle.libreria [:com.distribuida.principal.FacturaPrincipal.main()].executor": "Run",
+    "Gradle.libreria [:com.distribuida.principal.LibroPrincipal.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Progra_distribuida/libreria",
+    "onboarding.tips.debug.path": "C:/Distribuida-Nocturna/libreria/src/main/java/com/distribuida/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
-}</component>
-  <component name="RunManager" selected="Gradle.ClienteTest.testClienteSetters">
-    <configuration name="ClientePrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.distribuida.principal.ClientePrincipal" />
-      <module name="libreria.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.distribuida.principal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Gradle.ClienteTest.TestToString">
     <configuration name="FacturaDetallePrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.distribuida.principal.FacturaDetallePrincipal" />
       <module name="libreria.main" />
@@ -141,6 +131,30 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="ClienteTest.TestToString" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.distribuida.test.ClienteTest.TestToString&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
     </configuration>
     <configuration name="ClienteTest.testClienteSetters" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -203,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ClienteTest.TestToString" />
         <item itemvalue="Gradle.ClienteTest.testClienteSetters" />
         <item itemvalue="Gradle.ClienteTest.testclienteConstructorAndGetter" />
         <item itemvalue="Application.FacturaDetallePrincipal" />
         <item itemvalue="Application.FacturaPrincipal" />
-        <item itemvalue="Application.ClientePrincipal" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748571323464</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="libreria">
+      <option name="closed" value="true" />
+      <created>1749153469448</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749153469448</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,7 +304,8 @@
     <MESSAGE value="AVANCE 3 Calidad de software" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master1' into master1&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="versionamiento calidad2" />
-    <option name="LAST_COMMIT_MESSAGE" value="versionamiento calidad2" />
+    <MESSAGE value="libreria" />
+    <option name="LAST_COMMIT_MESSAGE" value="libreria" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

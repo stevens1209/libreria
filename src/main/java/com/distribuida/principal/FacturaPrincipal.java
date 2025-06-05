@@ -9,7 +9,7 @@ public class FacturaPrincipal {
     public static void main(String[] args){
 
         Factura factura = new Factura();
-        Cliente cliente = new Cliente(1,"1751881002","michael","caiza","puembo","0984863102","joecaiza1112");
+        Cliente cliente = new Cliente(1,"1726695396","Steven","Simbana","Lumbisi","0984241253","natanaelsimbaa@yahoo.es");
 
         factura.setIdFactura(1);
         factura.setNumFactura("FAC-0001");
